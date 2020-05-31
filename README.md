@@ -1,4 +1,4 @@
-# CS188_NLP_Models
+# N-gram NLP model (CS188)
 N-gram language model written as part of HW4 for class CS188 - "Introduction to Artificial Intelligence" at UC Berkeley during the Spring 2020 semester.
 
 After some theoretical questions about using different ML models for NLP (e.g. Naive Bayes, N-gram), part of the homework was to implement an N-gram language model, train it with some corpora of text and then use it to generate new text.
